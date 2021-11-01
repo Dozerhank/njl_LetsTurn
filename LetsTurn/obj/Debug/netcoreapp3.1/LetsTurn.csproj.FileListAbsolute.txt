@@ -1,0 +1,14 @@
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\LetsTurn\LetsTurn\bin\Debug\netcoreapp3.1\LetsTurn.exe
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\LetsTurn\LetsTurn\bin\Debug\netcoreapp3.1\LetsTurn.deps.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\LetsTurn\LetsTurn\bin\Debug\netcoreapp3.1\LetsTurn.runtimeconfig.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\LetsTurn\LetsTurn\bin\Debug\netcoreapp3.1\LetsTurn.runtimeconfig.dev.json
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\LetsTurn\LetsTurn\bin\Debug\netcoreapp3.1\LetsTurn.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\LetsTurn\LetsTurn\bin\Debug\netcoreapp3.1\LetsTurn.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\LetsTurn\LetsTurn\obj\Debug\netcoreapp3.1\LetsTurn.csproj.AssemblyReference.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\LetsTurn\LetsTurn\obj\Debug\netcoreapp3.1\LetsTurn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\LetsTurn\LetsTurn\obj\Debug\netcoreapp3.1\LetsTurn.AssemblyInfoInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\LetsTurn\LetsTurn\obj\Debug\netcoreapp3.1\LetsTurn.AssemblyInfo.cs
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\LetsTurn\LetsTurn\obj\Debug\netcoreapp3.1\LetsTurn.csproj.CoreCompileInputs.cache
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\LetsTurn\LetsTurn\obj\Debug\netcoreapp3.1\LetsTurn.dll
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\LetsTurn\LetsTurn\obj\Debug\netcoreapp3.1\LetsTurn.pdb
+C:\Users\Natel\Desktop\Semester 1\Object-Oriented Programming\LetsTurn\LetsTurn\obj\Debug\netcoreapp3.1\LetsTurn.genruntimeconfig.cache
